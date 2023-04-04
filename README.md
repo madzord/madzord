@@ -1,6 +1,6 @@
 ### Olá pessoal👋
 
-###### Sobre o Gabriel
+##### Sobre o Gabriel
 Começando os estudos sobre as linguagens HTML, CSS e JAVASCRIPT, fazendo projetos iniciais baseados em modelos de aulas vistas.
 
 ### Detalhes
